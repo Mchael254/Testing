@@ -1,0 +1,6 @@
+jest --Init
+
+jest configurations
+comment out
+testMatch
+testPathIgnorePatterns
